@@ -20,6 +20,7 @@
     "modern-normalize": "^2.0.0",
     "next": "13.2.4",
     "node": "16.6.1",
+    "or": "^0.2.0",
     "react": "18.2.0",
     "react-bootstrap": "^2.7.2",
     "react-dom": "18.2.0",
