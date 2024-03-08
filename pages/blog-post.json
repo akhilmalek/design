@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "title": "My First Blog Post",
+        "author": "John Doe",
+        "date": "2023-05-10",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor eros a dui lacinia, vel laoreet diam pretium. Integer bibendum sodales est at elementum. Praesent eget faucibus augue. Duis ultrices nisi nec nunc eleifend lobortis. Donec pulvinar libero at bibendum malesuada. Nulla tempus ipsum sit amet quam fringilla, sit amet dictum nisl fringilla."
+    },
+    {
+        "id": "2",
+        "title": "My Second Blog Post",
+        "author": "Jane Smith",
+        "date": "2023-05-12",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor eros a dui lacinia, vel laoreet diam pretium. Integer bibendum sodales est at elementum. Praesent eget faucibus augue. Duis ultrices nisi nec nunc eleifend lobortis. Donec pulvinar libero at bibendum malesuada. Nulla tempus ipsum sit amet quam fringilla, sit amet dictum nisl fringilla."
+    },{
+        "id": "3",
+        "title": "My First Blog Post",
+        "author": "John Doe",
+        "date": "2023-05-10",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor eros a dui lacinia, vel laoreet diam pretium. Integer bibendum sodales est at elementum. Praesent eget faucibus augue. Duis ultrices nisi nec nunc eleifend lobortis. Donec pulvinar libero at bibendum malesuada. Nulla tempus ipsum sit amet quam fringilla, sit amet dictum nisl fringilla."
+    },
+    {
+        "id": "4",
+        "title": "My Second Blog Post",
+        "author": "Jane Smith",
+        "date": "2023-05-12",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor eros a dui lacinia, vel laoreet diam pretium. Integer bibendum sodales est at elementum. Praesent eget faucibus augue. Duis ultrices nisi nec nunc eleifend lobortis. Donec pulvinar libero at bibendum malesuada. Nulla tempus ipsum sit amet quam fringilla, sit amet dictum nisl fringilla."
+    }
+]
