@@ -17,7 +17,7 @@
         "eslint-config-next": "14.2.2",
         "modern-normalize": "^2.0.0",
         "next": "14.2.2",
-        "node": "18.0.0",
+        "node": "18.17.0",
         "or": "^0.2.0",
         "react": "18.1.0",
         "react-bootstrap": "^2.10.2",
@@ -3205,9 +3205,9 @@
       }
     },
     "node_modules/node": {
-      "version": "18.0.0",
-      "resolved": "https://registry.npmjs.org/node/-/node-18.0.0.tgz",
-      "integrity": "sha512-5eNqoKpK67JqULugfYLIo8B+1HxB3MMqSIPWBvUbt3/B7tBNUebnQG8zp6zmJPoPuX0PFL1E3Nsc7+r91xzV6Q==",
+      "version": "18.17.0",
+      "resolved": "https://registry.npmjs.org/node/-/node-18.17.0.tgz",
+      "integrity": "sha512-CxckUPKuJ6Mjvo5v0YnuQNULBVoijqMX0+5i/vVD7OO6igu920nwkZMTeUoUwGLB6Wq0CUtyfh8LeVmCda3kPw==",
       "hasInstallScript": true,
       "dependencies": {
         "node-bin-setup": "^1.0.0"
@@ -6931,9 +6931,9 @@
       }
     },
     "node": {
-      "version": "18.0.0",
-      "resolved": "https://registry.npmjs.org/node/-/node-18.0.0.tgz",
-      "integrity": "sha512-5eNqoKpK67JqULugfYLIo8B+1HxB3MMqSIPWBvUbt3/B7tBNUebnQG8zp6zmJPoPuX0PFL1E3Nsc7+r91xzV6Q==",
+      "version": "18.17.0",
+      "resolved": "https://registry.npmjs.org/node/-/node-18.17.0.tgz",
+      "integrity": "sha512-CxckUPKuJ6Mjvo5v0YnuQNULBVoijqMX0+5i/vVD7OO6igu920nwkZMTeUoUwGLB6Wq0CUtyfh8LeVmCda3kPw==",
       "requires": {
         "node-bin-setup": "^1.0.0"
       }
