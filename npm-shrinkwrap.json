@@ -2911,12 +2911,6 @@
         "@pkgjs/parseargs": "^0.11.0"
       }
     },
-    "node_modules/jquery": {
-      "version": "3.7.1",
-      "resolved": "https://registry.npmjs.org/jquery/-/jquery-3.7.1.tgz",
-      "integrity": "sha512-m4avr8yL8kmFN8psrbFFFmB/If14iN5o9nw/NgnnM+kybDJpRsAynV2BsfpTYrTRysYUdADVD7CkUUizgkpLfg==",
-      "peer": true
-    },
     "node_modules/js-tokens": {
       "version": "4.0.0",
       "resolved": "https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz",
@@ -4973,8 +4967,7 @@
         "uncontrollable": {
           "version": "8.0.4",
           "resolved": "https://registry.npmjs.org/uncontrollable/-/uncontrollable-8.0.4.tgz",
-          "integrity": "sha512-ulRWYWHvscPFc0QQXvyJjY6LIXU56f0h8pQFvhxiKk5V1fcI8gp9Ht9leVAhrVjzqMw0BgjspBINx9r6oyJUvQ==",
-          "requires": {}
+          "integrity": "sha512-ulRWYWHvscPFc0QQXvyJjY6LIXU56f0h8pQFvhxiKk5V1fcI8gp9Ht9leVAhrVjzqMw0BgjspBINx9r6oyJUvQ=="
         }
       }
     },
@@ -5164,8 +5157,7 @@
     "acorn-jsx": {
       "version": "5.3.2",
       "resolved": "https://registry.npmjs.org/acorn-jsx/-/acorn-jsx-5.3.2.tgz",
-      "integrity": "sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ==",
-      "requires": {}
+      "integrity": "sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ=="
     },
     "aggregate-error": {
       "version": "3.1.0",
@@ -5381,8 +5373,7 @@
     "bootstrap": {
       "version": "5.3.3",
       "resolved": "https://registry.npmjs.org/bootstrap/-/bootstrap-5.3.3.tgz",
-      "integrity": "sha512-8HLCdWgyoMguSO9o+aH+iuZ+aht+mzW0u3HIMzVu7Srrpv7EBBxTnrFlSCskwdY1+EOFQSm7uMJhNQHkdPcmjg==",
-      "requires": {}
+      "integrity": "sha512-8HLCdWgyoMguSO9o+aH+iuZ+aht+mzW0u3HIMzVu7Srrpv7EBBxTnrFlSCskwdY1+EOFQSm7uMJhNQHkdPcmjg=="
     },
     "brace-expansion": {
       "version": "1.1.11",
@@ -5992,8 +5983,7 @@
         "eslint-plugin-react-hooks": {
           "version": "4.6.0",
           "resolved": "https://registry.npmjs.org/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.6.0.tgz",
-          "integrity": "sha512-oFc7Itz9Qxh2x4gNHStv3BqJq54ExXmfC+a1NjAta66IAN87Wu0R/QArgIS9qKzX3dXKPI9H5crl9QchNMY9+g==",
-          "requires": {}
+          "integrity": "sha512-oFc7Itz9Qxh2x4gNHStv3BqJq54ExXmfC+a1NjAta66IAN87Wu0R/QArgIS9qKzX3dXKPI9H5crl9QchNMY9+g=="
         },
         "resolve": {
           "version": "2.0.0-next.5",
@@ -6739,12 +6729,6 @@
         "@pkgjs/parseargs": "^0.11.0"
       }
     },
-    "jquery": {
-      "version": "3.7.1",
-      "resolved": "https://registry.npmjs.org/jquery/-/jquery-3.7.1.tgz",
-      "integrity": "sha512-m4avr8yL8kmFN8psrbFFFmB/If14iN5o9nw/NgnnM+kybDJpRsAynV2BsfpTYrTRysYUdADVD7CkUUizgkpLfg==",
-      "peer": true
-    },
     "js-tokens": {
       "version": "4.0.0",
       "resolved": "https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz",
@@ -7328,8 +7312,7 @@
     "react-table": {
       "version": "7.8.0",
       "resolved": "https://registry.npmjs.org/react-table/-/react-table-7.8.0.tgz",
-      "integrity": "sha512-hNaz4ygkZO4bESeFfnfOft73iBUj8K5oKi1EcSHPAibEydfsX2MyU6Z8KCr3mv3C9Kqqh71U+DhZkFvibbnPbA==",
-      "requires": {}
+      "integrity": "sha512-hNaz4ygkZO4bESeFfnfOft73iBUj8K5oKi1EcSHPAibEydfsX2MyU6Z8KCr3mv3C9Kqqh71U+DhZkFvibbnPbA=="
     },
     "react-transition-group": {
       "version": "4.4.5",
@@ -7526,8 +7509,7 @@
     "slick-carousel": {
       "version": "1.8.1",
       "resolved": "https://registry.npmjs.org/slick-carousel/-/slick-carousel-1.8.1.tgz",
-      "integrity": "sha512-XB9Ftrf2EEKfzoQXt3Nitrt/IPbT+f1fgqBdoxO3W/+JYvtEOW6EgxnWfr9GH6nmULv7Y2tPmEX3koxThVmebA==",
-      "requires": {}
+      "integrity": "sha512-XB9Ftrf2EEKfzoQXt3Nitrt/IPbT+f1fgqBdoxO3W/+JYvtEOW6EgxnWfr9GH6nmULv7Y2tPmEX3koxThVmebA=="
     },
     "source-map-js": {
       "version": "1.2.0",
@@ -7709,8 +7691,7 @@
     "ts-api-utils": {
       "version": "1.3.0",
       "resolved": "https://registry.npmjs.org/ts-api-utils/-/ts-api-utils-1.3.0.tgz",
-      "integrity": "sha512-UQMIo7pb8WRomKR1/+MFVLTroIvDVtMX3K6OUir8ynLyzB8Jeriont2bTAtmNPa1ekAgN7YPDyf6V+ygrdU+eQ==",
-      "requires": {}
+      "integrity": "sha512-UQMIo7pb8WRomKR1/+MFVLTroIvDVtMX3K6OUir8ynLyzB8Jeriont2bTAtmNPa1ekAgN7YPDyf6V+ygrdU+eQ=="
     },
     "tsconfig-paths": {
       "version": "3.15.0",
