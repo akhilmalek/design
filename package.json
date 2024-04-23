@@ -10,30 +10,21 @@
     "export": "next export"
   },
   "dependencies": {
-    "@types/node": "20.12.7",
-    "@types/react": "18.2.79",
-    "@types/react-dom": "18.2.25",
+    "@types/node": "18.16.1",
+    "@types/react": "18.2.0",
+    "@types/react-dom": "18.2.1",
+    "autoprefixer": "10.4.14",
     "axios-react": "^2.0.8",
     "bootstrap": "^5.3.3",
-    "eslint": "9.1.1",
-    "eslint-config-next": "14.2.2",
-    "latest-version": "^9.0.0",
-    "modern-normalize": "^2.0.0",
-    "next": "14.2.2",
-    "node": "18.20.2",
-    "npm": "^10.5.2",
-    "or": "^0.2.0",
+    "eslint": "8.39.0",
+    "eslint-config-next": "13.3.1",
+    "postcss": "^8.4.38",
     "react": "18.2.0",
     "react-bootstrap": "^2.10.2",
     "react-dom": "18.2.0",
     "react-paginate": "^8.2.0",
     "react-slick": "^0.30.2",
-    "react-table": "^7.8.0",
     "slick-carousel": "^1.8.1",
     "typescript": "5.4.5"
-  },
-  "devDependencies": {
-    "@types/react-slick": "^0.23.13",
-    "@types/react-table": "^7.7.20"
   }
 }
